@@ -1,0 +1,32 @@
+﻿# Pasta de binários e compilação
+bin/
+obj/
+
+# Arquivos de cache e lock do NuGet
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Configuração do Visual Studio e Rider
+.vscode/
+.idea/
+*.user
+*.suo
+*.vs/
+*.csproj.user
+
+# Logs e debug
+*.log
+TestResults/
+
+# Cobertura de código
+coverage/
+*.coverage
+*.coverlet/
+lcov.info
+
+# Arquivos temporários
+*.tmp
+*.cache
+*.pid
+*.swp
