@@ -9,6 +9,7 @@ project.assets.json
 
 # Configuração do Visual Studio e Rider
 .vscode/
+.vs
 .idea/
 *.user
 *.suo
